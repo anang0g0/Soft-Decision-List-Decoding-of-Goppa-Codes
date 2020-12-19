@@ -11,3 +11,5 @@ If a asymptotically good code is used for iterative decoding, will its performan
 マックリースはすごいなあ。
 
 どうでもいいけど、グーグル翻訳使ったらNarayananが奈良屋南になったｗ
+
+でも、これはちょっと暗号とは無関係かな・・・。
