@@ -5,3 +5,7 @@ If a asymptotically good code is used for iterative decoding, will its performan
 # 20201219
 
 課題：リスト復号と軟判定の適用。統計学が必要？
+
+これはちょっと目標が高いから先にリスト復号をやるべきかな。
+その次が軟判定。
+マックリースはすごいなあ。
