@@ -9,3 +9,5 @@ If a asymptotically good code is used for iterative decoding, will its performan
 これはちょっと目標が高いから先にリスト復号をやるべきかな。
 その次が軟判定。
 マックリースはすごいなあ。
+
+どうでもいいけど、グーグル翻訳使ったらNarayananが奈良屋南になったｗ
