@@ -1,6 +1,6 @@
 # public cryptosystem using non-deterministic-problem 
 
-# 修士論文保管計画
+# 修士論文補完計画
 
 # 20210124
 
