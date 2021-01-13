@@ -1,4 +1,4 @@
-# public-key cryptosystem based on non-deterministic-problem 
+# public-key cryptosystem based on undecidable-problem 
 
 # 20210124
 
