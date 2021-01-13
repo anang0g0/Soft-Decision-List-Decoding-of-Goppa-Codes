@@ -1,4 +1,4 @@
-# public cryptosystem using non-deterministic-problem 
+# public-key cryptosystem using non-deterministic-problem 
 
 # 修士論文補完計画
 
